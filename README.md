@@ -1,3 +1,4 @@
+![Splunk BOTS Investigation](bost_splunk.png)
 # Cerber Ransomware Investigation — Splunk BOTS Dataset
 
 ## Introduction
